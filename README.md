@@ -35,3 +35,14 @@ This is a simple, interactive combat game built using Python and Pygame, offerin
 
 <br> ![6.](https://img.shields.io/badge/6.-Victory_Conditions-34A853?style=for-the-badge&labelColor=white)
 <br> The first to sink all 8 enemy ships wins the game. Game over messages are shown at the end.
+
+# Concepts Used:
+<br> Programming Language: Python 3.X
+<br> Libraries: Pygame ( for graphics, events, rendering ), NumPy( for Grid ) 
+
+Core Concepts:
+<br> ⊡⁠ Event-driven programming
+<br> ⊡⁠ Grid generation using NumPy
+<br> ⊡⁠ Collision handling (mouse clicks & grid mapping)
+<br> ⊡⁠ Turn-based state machine logic
+<br> ⊡⁠ AI logic with random attack generation
