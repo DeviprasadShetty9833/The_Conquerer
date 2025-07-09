@@ -11,3 +11,7 @@
 <br> 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![Website](https://img.shields.io/badge/Website-indigo?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) | [![My Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Portfolio)  |                      
 |---|---|---|
+
+# Overview
+
+This is a simple, interactive combat game built using Python and Pygame, offering a fun grid-based combat experience between a human player and an AI opponent.Players can select difficulty levels (Easy, Moderate, Hard), place their ships, and engage in strategic turn-based attacks, all within a visually appealing UI rendered via Pygame.
