@@ -46,3 +46,54 @@ Core Concepts:
 <br> ⊡⁠ Collision handling (mouse clicks & grid mapping)
 <br> ⊡⁠ Turn-based state machine logic
 <br> ⊡⁠ AI logic with random attack generation
+
+# How to use:
+
+🔧 Setup:
+
+<br> 1. Make sure Python 3.x is installed.
+<br> 2. Install Pygame if not already:
+```python
+pip install pygame
+```
+
+▶️ Run the Game:
+
+<br> 1. Copy the source code from the file : [src.py](https://github.com/DeviprasadShetty9833/Battleship/blob/main/src.py)
+<br> 2. Paste the code on a Python file & save it as ' **Battleship.py** '.
+
+🎮 Controls:
+
+<br> 1. Placing Ships: 
+- Drag and drop ships on Left board: or click on ' **Randomize** ' to position them.
+- Click on ' **Deploy** '.
+
+<br> 2. Game Play:
+- Click on grid boxes on Right board to fire shots on Opponent's ships.
+- Use ' **Radar** ' to scan enemy waters and locate the ship.
+
+# Output:
+
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+
+# Feedback:
+<br> I’d love to hear from you!
+<br> If you encounter any [Bugs](https://github.com/DeviprasadShetty9833/Battleship/blob/main/Issue_Template/Bug_report.md), [Issues](https://github.com/DeviprasadShetty9833/Battleship/issues), or have [Suggestions](https://github.com/DeviprasadShetty9833/Battleship/blob/main/Issue_Template/Features_report.md) for improvements.
+
+
+# Support:
+If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends!
+
+---
+
+| [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#Overview) | [![Website](https://img.shields.io/badge/Back_to-Website-indigo?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) |[![My Portfolio](https://img.shields.io/badge/Back_to-My_Portfolio-000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Portfolio) |
+|---|---|---|
+
+
