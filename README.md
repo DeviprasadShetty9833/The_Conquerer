@@ -65,7 +65,7 @@ pip install pygame
 🎮 Controls:
 
 <br> 1. Click on the grid boxes on Left board to place your ships( BLUE boxes ).
-<br> 2. Click on grid boxes on Right board to fire shots on AI's ships( GREEN boxes ).
+<br> 2. Click on grid boxes on Right board to fire shots on AI's ships( GREEN dots ).
 
 # Output:
 
