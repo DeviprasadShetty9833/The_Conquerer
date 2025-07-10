@@ -74,6 +74,8 @@ class BattleshipGame:
         self.ai_hits = set()
         self.selected_ship_count = 0
 
+        self.message = f"Place your {self.total_ships} ships."
+
         #self.message = f"Place your {self.total_ships} ships."
         
     def place_ai_ships(self):  # from line 68
@@ -193,7 +195,7 @@ class BattleshipGame:
             self.game_state = "PLACING_SHIPS"
     
     def handle_ship_placement(self, pos):
-       pass
+        pass
     
     def handle_player_attack(self, pos):
         # Check if click is within AI board
@@ -203,7 +205,6 @@ class BattleshipGame:
         board_y = int((pos[1] - board_start_y) // CELL_SIZE)
         
         if (0 <= board_x < self.board_size and 0 <= board_y < self.board_size and (board_y, board_x) not in self.player_hits):
-            
             self.player_hits.add((board_y, board_x))
             
             if self.ai_board[board_y][board_x] == 2:  # Hit
@@ -281,4 +282,3 @@ class BattleshipGame:
 if __name__ == "__main__":
     game = BattleshipGame()
     game.run()
-
