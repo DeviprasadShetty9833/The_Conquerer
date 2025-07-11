@@ -69,7 +69,7 @@ pip install pygame
 
 # Output:
 
-![image alt](https://github.com/DeviprasadShetty9833/The_Conquerer/blob/f4d9145cedd9916cf3328da31eb23b466b1a24a8/assets/Output1.png)
+![image alt](https://github.com/DeviprasadShetty9833/The_Conquerer/blob/f4d9145cedd9916cf3328da31eb23b466b1a24a8/assets/Output8.png)
 ![image alt](https://github.com/DeviprasadShetty9833/The_Conquerer/blob/f4d9145cedd9916cf3328da31eb23b466b1a24a8/assets/Output2.png)
 ![image alt](https://github.com/DeviprasadShetty9833/The_Conquerer/blob/f4d9145cedd9916cf3328da31eb23b466b1a24a8/assets/Output3.png)
 ![image alt](https://github.com/DeviprasadShetty9833/The_Conquerer/blob/f4d9145cedd9916cf3328da31eb23b466b1a24a8/assets/Output4.png)
