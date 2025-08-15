@@ -14,7 +14,7 @@
 
 # Overview:
 
-This is a simple, interactive combat game built using Python and Pygame, offering a fun grid-based combat experience between a human player and an AI opponent.Players can select difficulty levels (Easy, Moderate, Hard), place their ships, and engage in strategic turn-based attacks, all within a visually appealing UI rendered via Pygame.
+This is a simple, interactive combat game built using Python and Pygame, offering a fun grid-based combat experience between a human player and an AI opponent. Players can select difficulty levels (Easy, Moderate, Hard), place their ships, and engage in strategic turn-based attacks, all within a visually appealing UI rendered via Pygame.
 
 # Key Features:
 
